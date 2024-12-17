@@ -67,7 +67,7 @@ body {
 
 .menu-nav .menu-nav-link:hover,
 .menu-nav .menu-nav-link:focus {
-    color: #404bbf
+    color: #404bbf;
 }
 
 
@@ -85,7 +85,7 @@ body {
 
 .menu-adress .menu-adress-link:hover,
 .menu-adress .menu-adress-link:focus {
-    color: #404bbf
+    color: #404bbf;
 }
 
 /* First-section */
@@ -98,7 +98,7 @@ body {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
      letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
@@ -111,10 +111,11 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
+    background-color: #4D5AE5;
 }
 
 .button:hover,
 .button:active {
-    background-color: #404BBF
-    cursor: pointer
+    background-color: #404BBF;
+    cursor: pointer;
 }
