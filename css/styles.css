@@ -38,7 +38,7 @@ body {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -54,9 +54,9 @@ body {
     color: #2e2f42;
 }
 
-/* nav-studio-portfolio-contacts  */
+/* Меню навігації-menu-nav  */
 
-.nav-studio {
+.menu-nav .menu-nav-link {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -65,36 +65,15 @@ body {
     color: #2e2f42;
 }
 
-.nav-portfolio {
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
+.menu-nav .menu-nav-link:hover,
+.menu-nav .menu-nav-link:focus {
+    color: #404bbf
 }
 
-.nav-contacts {
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
 
-/* adress-email-phone */
+/* Меню андеси-menu-adress */
 
-.email {
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-.phone {
+.menu-adress {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
