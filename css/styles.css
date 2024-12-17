@@ -84,6 +84,6 @@ body {
 }
 
 .menu-adress .menu-adress-link:hover,
-.menu-adress .menu-adress-link:hover {
+.menu-adress .menu-adress-link:focus {
     color: #404bbf
 }
