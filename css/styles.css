@@ -182,3 +182,56 @@ body {
 .footer-item {
     background-color: #2e2f42;
 }
+
+.our-team-section {
+    background-color: #F4F4FD;
+}
+
+/* Заголовок секції */
+.section-title {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+/* Список учасників */
+.team-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Картинка та текст учасника */
+.team-member {
+    text-align: center;
+    width: 23%;
+}
+
+.team-member-img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+/* Заголовки учасників */
+.team-member-name {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+/* Параграфи ролей учасників */
+.team-member-role {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
