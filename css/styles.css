@@ -87,3 +87,34 @@ body {
 .menu-adress .menu-adress-link:focus {
     color: #404bbf
 }
+
+/* First-section */
+
+.first-section {
+    background-color: #2e2f42;
+}
+
+.title {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07143;
+     letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+}
+
+.button {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+}
+
+.button:hover,
+.button:active {
+    background-color: #404BBF
+    cursor: pointer
+}
