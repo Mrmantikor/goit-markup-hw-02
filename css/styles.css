@@ -183,11 +183,11 @@ body {
     background-color: #2e2f42;
 }
 
+/* Третя секція */
+
 .our-team-section {
     background-color: #F4F4FD;
 }
-
-/* Третя секція */
 
 .section-title {
     font-size: 36px;
@@ -196,7 +196,6 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
-    background-color: #FFFFFF;
 }
 
 /* Список учасників */
@@ -206,19 +205,6 @@ body {
     margin: 0;
     display: flex;
     justify-content: space-between;
-}
-
-/* Картинка та текст учасника */
-.team-member {
-    text-align: center;
-    width: 23%;
-}
-
-.team-member-img {
-    width: 100%;
-    height: auto;
-    border-radius: 10px;
-    margin-bottom: 10px;
 }
 
 /* Заголовки учасників */
