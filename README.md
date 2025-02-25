@@ -7,6 +7,8 @@
 - Налаштуй GitHub Pages і додай посилання на живу сторінку в секцію About
   GitHub-репозиторія.
 
+![Image](https://github.com/user-attachments/assets/63437b8c-9b60-4c2c-899b-fb2ceb0fc50a)
+
 ## На що буде звертати увагу ментор :
 
 ### **Проєкт**
